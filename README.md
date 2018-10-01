@@ -1,5 +1,9 @@
 # Actio
 
+Curso [.NET Core Microservices | Udemy](https://www.udemy.com/share/1006lkAEcTclpUR3w=/)
+
+## Criação da Solution
+
 ```bash
 $ mkdir Actio
 $ cd Actio/
@@ -8,7 +12,6 @@ $ mkdir src
 $ mkdir scripts
 $ mkdir tests
 $ cd src
-$ dot new webapi -n Actio.API
 $ dotnet new webapi -n Actio.API
 $ dotnet new webapi -n Actio.Services.Identity
 $ dotnet new webapi -n Actio.Services.Activities
@@ -22,6 +25,6 @@ $ dotnet sln add src/Actio.Common/Actio.Common.csproj
 $ dotnet sln add src/Actio.Services.Identity/Actio.Services.Identity.csproj
 $ dotnet sln add src/Actio.API/
 $ dotnet sln add src/Actio.Services.Activities/Actio.Services.Activities.csproj
-$  dotnet restore
+$ dotnet restore
 $ dotnet build
 ```
