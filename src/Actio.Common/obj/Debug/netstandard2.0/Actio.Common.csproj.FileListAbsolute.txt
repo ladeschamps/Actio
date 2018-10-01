@@ -1,0 +1,9 @@
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Common\bin\Debug\netstandard2.0\Actio.Common.deps.json
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Common\bin\Debug\netstandard2.0\Actio.Common.dll
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Common\bin\Debug\netstandard2.0\Actio.Common.pdb
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.csprojAssemblyReference.cache
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.csproj.CoreCompileInputs.cache
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.AssemblyInfoInputs.cache
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.AssemblyInfo.cs
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.dll
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.pdb

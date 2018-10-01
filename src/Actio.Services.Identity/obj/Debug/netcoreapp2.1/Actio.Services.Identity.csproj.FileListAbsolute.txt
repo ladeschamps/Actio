@@ -1,0 +1,17 @@
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Services.Identity.deps.json
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Services.Identity.runtimeconfig.json
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Services.Identity.runtimeconfig.dev.json
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Services.Identity.dll
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Services.Identity.pdb
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Common.dll
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Common.pdb
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.csprojAssemblyReference.cache
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.csproj.CoreCompileInputs.cache
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.RazorAssemblyInfo.cache
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.RazorAssemblyInfo.cs
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.AssemblyInfoInputs.cache
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.AssemblyInfo.cs
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.RazorTargetAssemblyInfo.cache
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.csproj.CopyComplete
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.dll
+C:\-\testes\curso-net-microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.pdb
