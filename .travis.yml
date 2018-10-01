@@ -1,2 +1,6 @@
 language: csharp
 solution: solution-Actio.sln
+mono: none
+dotnet: 2.1.402
+script:
+ - dotnet restore
